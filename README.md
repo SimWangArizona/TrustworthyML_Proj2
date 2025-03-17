@@ -9,8 +9,8 @@ This project includes evaluation of [Deepseek-R1-Qwen-7B](https://huggingface.co
 - **Transformers >= 4.46.0**
 # Clone and install the dependencies
 ```
-git clone https://github.com/SimWangArizona/TrustworthyML_Proj1.git
-cd TrustworthyML_Proj1-main
+git clone https://github.com/SimWangArizona/TrustworthyML_Proj2.git
+cd TrustworthyML_Proj2-main
 pip install -r requirements.txt
 ```
 # How to use
